@@ -8,7 +8,7 @@ Pragmatic, isomorphic, performant clef padder. [clefpad](https://github.com/kelc
 
 Usage
 -----
-    > var clefpad = require('clefpadder');
+    > var clefpadder = require('clefpadder');
     undefined
     > clefpadder('Happy Friday Everyone!', 3);
     '🎼🎼🎼Happy Friday Everyone!🎼🎼🎼'
