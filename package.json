@@ -1,0 +1,24 @@
+{
+  "name": "clefpadder",
+  "version": "1.0.0",
+  "description": "pragmatic, performant, isomorphic clefpad",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "treble",
+    "clef",
+    "leftpad"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexjpaz/clefpadder"
+  },
+  "author": "Alexander Paz",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
