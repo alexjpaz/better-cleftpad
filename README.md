@@ -3,7 +3,7 @@ clefpadder
 
 Description
 -----------
-[https://github.com/kelcecil/clefpad] but better
+(clefpad)[https://github.com/kelcecil/clefpad], but better.
 
 Usage
 -----
