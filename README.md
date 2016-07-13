@@ -1,9 +1,10 @@
 clefpadder
 =======
 
-Description
+Description 
 -----------
-[clefpad](https://github.com/kelcecil/clefpad), but better.
+
+Pragmatic, isomorphic, performant clef padder. [clefpad](https://github.com/kelcecil/clefpad), but better.
 
 Usage
 -----
