@@ -2,6 +2,7 @@ clefpadder
 =======
 
 ![Test Coverage](https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_unknown.svg)
+![Build Passing](https://api.travis-ci.org/travis-ci/travis-web.svg?branch=master)
 
 Description 
 -----------
