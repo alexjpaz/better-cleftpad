@@ -1,6 +1,8 @@
 clefpadder
 =======
 
+![Test Coverage](https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_unknown.svg)
+
 Description 
 -----------
 
